@@ -1,6 +1,20 @@
-# crime_rate_analysis
+<div align="center">
 
-# Crime Rate Analysis Project
+# 🚓 Crime Rate Analysis — PySpark, Streaming & ML on GCP
+
+### Cleaning, analysing and predicting Kansas City crime data at scale — batch + streaming Spark, heat maps, and Decision Tree / Random Forest / Naive Bayes models.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Spark Streaming](https://img.shields.io/badge/Spark_Streaming-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![MLlib](https://img.shields.io/badge/MLlib-FF6F00?style=flat-square)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
 This repository contains a comprehensive project on crime data analysis using Apache Spark and machine learning. The analysis leverages PySpark and PySpark Streaming for data processing and machine learning techniques for insights and predictions. The project also includes deployment guidelines for running on Google Cloud Platform (GCP).
 
 ## Project Overview
@@ -73,3 +87,11 @@ The project focuses on analyzing crime data sourced from the **Kansas City Polic
 
 
 This repository serves as a guide and resource for anyone interested in crime data analysis using Spark and deploying scalable data processing pipelines on GCP.
+
+---
+
+<div align="center">
+
+**Built by [Sai Satya Jagannadh Doddipatla (DJ)](https://saisatyajagannadh.github.io/PersonalPortfolio/)** · ⭐ Star the repo if it helped
+
+</div>
